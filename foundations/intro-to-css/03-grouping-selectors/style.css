@@ -6,3 +6,12 @@
         font-family: Helvetica, 'Times New Roman', sans-serif;
         
     }
+
+.click {
+    color: white;
+    background-color: black;
+}
+
+.unclick {
+    background-color: yellow;
+}
