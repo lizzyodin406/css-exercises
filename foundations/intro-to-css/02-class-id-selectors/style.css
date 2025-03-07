@@ -1,11 +1,11 @@
 /* Stylesheet */
 
 .odd {
-    background-color: rgb(rgb(198, 66, 125);
+    background-color: rgb(211, 59, 104);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.third {
+.odd.third {
     font-size: 24px;
 
 }
@@ -16,8 +16,8 @@
 }
 
 #four {
-    background-color: rgb(rgb(6, 148, 20);
+    background-color: rgb(68, 199, 90);
     font-weight: bold;
     font-size: 24px;
-    
+
 }
