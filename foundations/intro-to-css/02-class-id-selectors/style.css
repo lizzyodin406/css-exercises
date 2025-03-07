@@ -1,19 +1,23 @@
 /* Stylesheet */
 
 .odd {
-
-
+    background-color: rgb(rgb(198, 66, 125);
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .third {
-
+    font-size: 24px;
 
 }
 
 #two {
-
+    color: rgb(48, 5, 219);
+    font-size: 36px;
 }
 
 #four {
+    background-color: rgb(rgb(6, 148, 20);
+    font-weight: bold;
+    font-size: 24px;
     
 }
