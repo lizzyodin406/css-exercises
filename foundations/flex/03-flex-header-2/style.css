@@ -48,7 +48,6 @@ ul {
   list-style-type: none;
 }
 
-links {
-  flex-direction: row;
-
+.links {
+  flex: 1 0 auto;
 }
