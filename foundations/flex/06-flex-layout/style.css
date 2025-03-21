@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
+  
   height: 100vh;
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  /* edited */
+  position: relative;
+  
+  
 }
 
 img {
@@ -78,7 +83,9 @@ a:hover, a:visited, a:link, a:active {
   align-items: end;
   background-color: rgb(233, 231, 231);
   margin-top: 80px;
-  
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .content {
