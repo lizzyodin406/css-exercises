@@ -25,6 +25,8 @@ body {
   height: 48px;
   display: flex;
   align-items: center;
+  margin-left: 15px;
+  margin-right: 10px;
 }
 
 .logo {
@@ -35,6 +37,7 @@ body {
   justify-content: left;
   padding-left: 10px;
   align-items: center;
+  display: flex;
 
 }
 
@@ -44,7 +47,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  height: 40px;
+  height: 32px;
   align-items: center;
   flex-direction: row;
   padding-right: 20px;
@@ -61,11 +64,12 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
+
 }
 
 .links {
-  
-  justify-content: end;
+  align-items: center;
+  display: flex;
 }
 
 .one, .two, .three {
