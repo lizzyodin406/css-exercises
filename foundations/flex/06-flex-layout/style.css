@@ -18,8 +18,18 @@ button {
   border-radius: 7px;
   background: #eee;
   /* adjust height and width*/
-  height: 30px;
-  width: 130px;
+  width: 140px;
+  height: 25px;
+}
+
+#thing {
+  display: flex;
+  
+}
+
+#other-thing {
+  display: flex;
+  
 }
 
 input {
@@ -68,6 +78,7 @@ a:hover, a:visited, a:link, a:active {
   align-items: end;
   background-color: rgb(233, 231, 231);
   margin-top: 80px;
+  
 }
 
 .content {
@@ -81,7 +92,4 @@ a:hover, a:visited, a:link, a:active {
   padding-top: 10px;
 }
 
-.button {
-  height: 20px;
-  width: auto;
-}
+
