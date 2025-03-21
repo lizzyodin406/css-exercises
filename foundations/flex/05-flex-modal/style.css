@@ -85,6 +85,7 @@ button.cancel {
 
 .bottom {
   margin-left: 67px;
+  margin-bottom: 10px;
 }
 
 .text {
@@ -98,4 +99,6 @@ button.cancel {
 
 .close-button {
   margin-top: 8px;
+  margin-right: 10px;
+  align-items: center;
 }
