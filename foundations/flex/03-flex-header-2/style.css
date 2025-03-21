@@ -14,7 +14,8 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
-  
+  padding: 8px;
+
 }
 
 .profile-image {
@@ -38,7 +39,7 @@ body {
   padding-left: 10px;
   align-items: center;
   display: flex;
-
+  margin-right: 0px;
 }
 
 button {
@@ -70,10 +71,18 @@ ul {
 .links {
   align-items: center;
   display: flex;
+  
 }
 
-.one, .two, .three {
+.two, .three {
   padding: 10px;
+
+}
+
+.one {
+  padding-left: 0;
+  padding-right: 10px;
+
 }
 
 .second {
