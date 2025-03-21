@@ -30,3 +30,26 @@ img {
 .row {
   display: flex;
 }
+
+.barberry, .chili, .pepper, .saffron {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex: 1 1 auto;
+  margin: 20px;
+  padding: 10px;
+}
+
+.barberry {
+  padding-left: 70px;
+}
+
+.saffron {
+  padding-right: 70px;
+}
+
+.text {
+  text-align: center;
+}
